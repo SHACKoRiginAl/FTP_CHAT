@@ -1,0 +1,26 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\bin\Debug\FtpChat.exe.config
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\bin\Debug\FtpChat.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\bin\Debug\FtpChat.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\bin\Debug\FtpChat.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\FtpChat.FTP_Settings.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\FtpChat.Main.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\FtpChat.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\FtpChat.UserName.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\FtpChat.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\FtpChat.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\FtpChat.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\FtpChat\FtpChat\obj\Debug\FtpChat.pdb
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\bin\Debug\FtpChat.exe.config
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\bin\Debug\FtpChat.exe
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\bin\Debug\FtpChat.pdb
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\bin\Debug\FtpChat.xml
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.vbprojResolveAssemblyReference.cache
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.FTP_Settings.resources
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.Main.resources
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.Resources.resources
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.UserName.resources
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.vbproj.GenerateResource.Cache
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.exe
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.xml
+C:\Users\IBB Teilnehmer\Documents\Visual Studio 2017\Projects\ftp_chat\FtpChat\FtpChat\obj\Debug\FtpChat.pdb
